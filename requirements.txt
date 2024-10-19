@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+opensmile
+librosa
+matplotlib
+ipykernel
+#You may need to install ffmpeg
+#https://www.ffmpeg.org/download.html
