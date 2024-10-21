@@ -4,5 +4,8 @@ opensmile
 librosa
 matplotlib
 ipykernel
+torch
+torchaudio
+seaborn
 #You may need to install ffmpeg
 #https://www.ffmpeg.org/download.html
